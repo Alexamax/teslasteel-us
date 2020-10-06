@@ -1,0 +1,29 @@
+.header {
+    border: solid black 1px;
+    background-color: #2a2a44;
+    color:white;
+    font-family: Calibri, sans-serif;
+    display: flex;
+}
+.logo {
+    flex-grow: 1;
+    font-size: 50px;
+    font-weight: bold;
+    border: solid white 1px;
+}
+.navigation-menu {
+    flex-grow: 1;
+    border: solid white 1px;
+    text-align: left;
+}
+.social-holder {
+    flex-grow: 1;
+    border: solid white 1px;
+}
+
+.page {
+     border: solid black 1px;
+}
+.footer {
+    border: solid black 1px;
+}
